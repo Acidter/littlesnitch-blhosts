@@ -1,6 +1,6 @@
-127.0.0.1 swscan.apple.com
-127.0.0.1 swquery.apple.com
-127.0.0.1 swdownload.apple.com
-127.0.0.1 swcdn.apple.com
-127.0.0.1 swdist.apple.com
+0.0.0.0 swscan.apple.com
+0.0.0.0 swquery.apple.com
+0.0.0.0 swdownload.apple.com
+0.0.0.0 swcdn.apple.com
+0.0.0.0 swdist.apple.com
 
