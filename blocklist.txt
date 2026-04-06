@@ -1,0 +1,6 @@
+127.0.0.1 swscan.apple.com
+127.0.0.1 swquery.apple.com
+127.0.0.1 swdownload.apple.com
+127.0.0.1 swcdn.apple.com
+127.0.0.1 swdist.apple.com
+
